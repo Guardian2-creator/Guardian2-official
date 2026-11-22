@@ -46,6 +46,6 @@ Get started directly at *[guardian2.web.app](https://guardian2.web.app)*:
 
 ## 🛠️ About the Build
 
-Engineered by *G-LIFELINE TECHNOLOGIES* (Blomfontein, South Africa) — designed for global deployment, zero bloat, and maximum reliability when seconds count.
+Engineered by *G-LIFELINE TECHNOLOGIES* (Bloemfontein, South Africa) — designed for global deployment, zero bloat, and maximum reliability when seconds count.
 
 * *Live Portal & Downloads:* [https://guardian2.web.app](https://guardian2.web.app)
